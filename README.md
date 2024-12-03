@@ -2,9 +2,9 @@
 
 ## Team Members
 
-1. Patel, Liyansu Ghanshyambhai : patel2464@saskpolytech.ca  
-2. Bhojak, Krishna Vipulkumar : bhojak3091@saskpolytech.ca  
-3. Patel, Vivekkumar Kaushikkumar : patel6562@saskpolytech.ca
+1. Patel, Liyansu Ghanshyambhai : https://www.linkedin.com/in/liyansu-patel/ 
+2. Bhojak, Krishna Vipulkumar : https://www.linkedin.com/in/krishnabhojak-44731215a/ 
+3. Patel, Vivekkumar Kaushikkumar : https://www.linkedin.com/in/patel-vivek-726373304/
 
 ## Problem Definition
 
